@@ -1,8 +1,8 @@
 //js file for Lab 9
 
 $( "li" ).hover(function() {
-  $( this ).fadeOut( 100, 0.25 );
-  $( this ).fadeIn( 500, 1 );
+  $( this ).fadeOut( 2000, 0.25 );
+  $( this ).fadeIn( 2000, 1 );
 });
 
 $( "li" ).click(function() {
