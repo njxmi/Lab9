@@ -1,0 +1,30 @@
+//style sheet for Lab 9
+body {
+ "background-color: gray;"
+}
+
+
+div.home {
+    height: 50px;
+    width: 200px;
+    background-color: black;
+}
+
+div.photos {
+    height: 50px;
+    width: 200px;
+    background-color: black;
+}
+
+div.about {
+    height: 50px;
+    width: 200px;
+    background-color: black;
+}
+
+div.contact {
+    height: 50px;
+    width: 200px;
+    background-color: black;
+}
+
